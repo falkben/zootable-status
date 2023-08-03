@@ -4,18 +4,20 @@
     "url": "https://zootable.com",
     "icon": "https://icons.duckduckgo.com/ip3/zootable.com.ico",
     "slug": "zootable-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 229,
-    "timeWeek": 213,
-    "timeMonth": 213,
-    "timeYear": 213,
-    "dailyMinutesDown": {}
+    "time": 273,
+    "timeDay": 521,
+    "timeWeek": 273,
+    "timeMonth": 273,
+    "timeYear": 273,
+    "dailyMinutesDown": {
+      "2023-08-03": 0
+    }
   },
   {
     "name": "Zootable NA login",
