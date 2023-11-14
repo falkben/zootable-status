@@ -22,7 +22,7 @@
     "url": "https://na.zootable.com",
     "icon": "https://icons.duckduckgo.com/ip3/na.zootable.com.ico",
     "slug": "zootable-na-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 423,
     "timeMonth": 517,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-14": 0
+    }
   }
 ]
