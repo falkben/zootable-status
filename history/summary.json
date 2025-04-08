@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 210,
-    "timeDay": 188,
-    "timeWeek": 227,
-    "timeMonth": 229,
+    "timeDay": 96,
+    "timeWeek": 222,
+    "timeMonth": 224,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2024-10-11": 43
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/na.zootable.com.ico",
     "slug": "zootable-na-login",
     "status": "up",
-    "uptime": "91.78%",
+    "uptime": "91.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "97.62%",
-    "time": 472,
-    "timeDay": 215,
-    "timeWeek": 323,
-    "timeMonth": 512,
-    "timeYear": 488,
+    "uptimeYear": "97.90%",
+    "time": 471,
+    "timeDay": 277,
+    "timeWeek": 304,
+    "timeMonth": 502,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2025-03-26": 41,
       "2025-02-17": 39,
@@ -52,8 +52,7 @@
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
-      "2024-04-09": 1440,
-      "2024-04-08": 1440
+      "2024-04-09": 1440
     }
   }
 ]
