@@ -24,8 +24,8 @@
     "url": "https://na.zootable.com",
     "icon": "https://icons.duckduckgo.com/ip3/na.zootable.com.ico",
     "slug": "zootable-na-login",
-    "status": "up",
-    "uptime": "92.07%",
+    "status": "down",
+    "uptime": "92.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 305,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2025-04-30": 0,
       "2025-03-26": 41,
       "2025-02-17": 39,
       "2025-02-16": 260,
