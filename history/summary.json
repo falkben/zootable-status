@@ -11,16 +11,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 292,
-    "timeDay": 551,
-    "timeWeek": 488,
-    "timeMonth": 413,
+    "timeDay": 156,
+    "timeWeek": 428,
+    "timeMonth": 410,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2026-02-11": 51,
       "2026-01-26": 44,
       "2025-10-20": 57,
-      "2025-08-04": 39,
-      "2025-05-07": 20
+      "2025-08-04": 39
     }
   },
   {
@@ -30,15 +29,15 @@
     "slug": "zootable-na-login",
     "status": "up",
     "uptime": "94.91%",
-    "uptimeDay": "95.21%",
-    "uptimeWeek": "98.46%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.01%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "99.81%",
-    "time": 584,
-    "timeDay": 1419,
-    "timeWeek": 1536,
-    "timeMonth": 1795,
-    "timeYear": 687,
+    "time": 585,
+    "timeDay": 1129,
+    "timeWeek": 1551,
+    "timeMonth": 1802,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2026-05-06": 43,
       "2026-05-05": 26,
